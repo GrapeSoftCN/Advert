@@ -6,8 +6,8 @@ import java.util.Properties;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
-import database.dbFilter;
-import security.codec;
+import common.java.database.dbFilter;
+import common.java.security.codec;
 
 public class CommonModel {
 

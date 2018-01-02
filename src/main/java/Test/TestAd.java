@@ -1,8 +1,6 @@
 package Test;
 
-import httpServer.booter;
-import nlogger.nlogger;
-import security.codec;
+import common.java.security.codec;
 
 public class TestAd {
     public static void main(String[] args) {
